@@ -146,7 +146,7 @@ svg {
 
 @media (max-width: 992px) {
   #header h1 {
-    font-size: 36px;
+    font-size: 25px;
   }
   #header h2 {
     font-size: 20px;
@@ -329,7 +329,7 @@ svg {
     height: 60px;
   }
   #header.header-top h1 {
-    font-size: 26px;
+    font-size: 20px;
   }
 }
 
@@ -871,6 +871,25 @@ section .container {
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
   color: #12d640;
 }
+
+
+/* Tampilan rapi untuk layar kecil */
+@media screen and (max-width: 768px) {
+  #education ul {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    padding-left: 15px;
+  }
+
+  #education ul li {
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+}
+
+
 
 /*--------------------------------------------------------------
 # Portfolio
