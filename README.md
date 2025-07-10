@@ -20,7 +20,7 @@ Hai semuanya! Saya adalah mahasiswa semester 6 jurusan **Teknologi Informasi** y
 - ✅ Figma, Canva
 - ✅ Git & GitHub
 
-> "Desain yang bagus bukan hanya terlihat bagus. Tapi juga terasa nyaman digunakan."
+> "Desain yang bagus bukan dari tampilan yang terlihat bagus. Tapi juga terasa nyaman digunakan."
 
 ---
 
